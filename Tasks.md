@@ -32,4 +32,4 @@ mentioned in `profile.md`. Word limit: [200-500].
 
 > Note: Don't use AI.
 
-- [ ] Finally, go to `questions.md` and answer the questions in you own words.
+- [X] Finally, go to `questions.md` and answer the questions in you own words.
