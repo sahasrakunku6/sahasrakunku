@@ -27,7 +27,7 @@ just edit the ones already present in the folder.
 - [x] We want to learn about you, so for that we have `profile.md`. Just add the information about you as indicated in the file.
 Keep in mind, this file also works as an SOP for yourself and we will be taking a look into this one while selecting.
 
-- [ ] Now, go to `documentation.md` and write a short documentation about any one of the open-source tools and services you
+- [x] Now, go to `documentation.md` and write a short documentation about any one of the open-source tools and services you
 mentioned in `profile.md`. Word limit: [200-500]. 
 
 > Note: Don't use AI.
